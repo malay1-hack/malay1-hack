@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malay1-hack
+- 👋 Hi, I’m @code_runner8
 - 👀 I’m interested in programming...
 - 🌱 I’m currently learning coding...
 - 💞️ I’m looking to collaborate on learning projects...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-malay1-hack/malay1-hack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+code_runner8/code_runne8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
